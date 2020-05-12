@@ -1,6 +1,8 @@
 * {
     margin: 0;
     padding: 0;
+    outline: none;
+    user-select: none;
 }
 
 body {
@@ -58,6 +60,10 @@ body {
     -webkit-box-shadow: 2px 1px 1px 1px rgba(1, 1, 1, 1);
     -moz-box-shadow: 2px 1px 1px 1px rgba(1, 1, 1, 1);
     box-shadow: 2px 1px 1px 1px rgba(1, 1, 1, 1);
+}
+
+.key:hover{
+    cursor: pointer;
 }
 
 .play {
