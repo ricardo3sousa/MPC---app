@@ -51,8 +51,8 @@ body {
     height: 80px;
     border: 1px solid rgba(150, 10, 10, 1);
     border-radius: 6px;
-    font-size: 35px;
-    color: rgba(1, 1, 1, 1);
+    font-size: 20px;
+    color: rgba(255, 255, 255, 0.4);
     background: rgba(70, 10, 10, 0.9);
     display: flex;
     justify-content: center;
@@ -84,7 +84,7 @@ body {
     }
 
     .key {
-        font-size: 20px;
+        font-size: 15px;
         margin: 6px;
         border-radius: 3px;
         width: 50px;
